@@ -8,16 +8,16 @@ VALUES  ("Accounting"),
 INSERT INTO role(title, salary, department_id)
 VALUES  ("Manager", 92000.00, 1),
         ("Team Lead", 73000.00, 1),
-        ("Team Member", 52000.00, 1)
+        ("Team Member", 52000.00, 1),
         ("Manager", 92000.00, 2),
         ("Team Lead", 73000.00, 2),
-        ("Team Member", 52000.00, 2)
+        ("Team Member", 52000.00, 2),
         ("Manager", 92000.00, 3),
         ("Team Lead", 73000.00, 3),
-        ("Team Member", 52000.00, 3)
+        ("Team Member", 52000.00, 3),
         ("Manager", 92000.00, 4),
         ("Team Lead", 73000.00, 4),
-        ("Team Member", 52000.00, 4)
+        ("Team Member", 52000.00, 4),
         ("Manager", 92000.00, 5),
         ("Team Lead", 73000.00, 5),
         ("Team Member", 52000.00, 5);
